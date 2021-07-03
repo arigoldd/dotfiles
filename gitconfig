@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ari.gold.bu@gmail.com
+	name = Ari Gold
